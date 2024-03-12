@@ -8,6 +8,7 @@ public class ResourceManagementServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResourceManagementServiceApplication.class, args);
+		System.out.println("Resource management module started");
 	}
 
 }
